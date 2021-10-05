@@ -24,9 +24,9 @@ This is the place where I opensource stuff and break things 🤣
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Django" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/django.svg" />
-<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_256x256.png" />
+<img align="left" alt="Python" width="26px" src="https://languages.abranhe.com/languages/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="R" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r_256x256.png" />
+<img align="left" alt="R" width="26px" src="https://languages.abranhe.com/languages/r.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 
