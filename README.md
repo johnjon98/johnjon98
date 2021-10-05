@@ -35,6 +35,6 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![johnjon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjon98&show_icons=true&theme=radical)
+![johnjon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjon98&count_private=true&show_icons=true&theme=radical)
 
 
