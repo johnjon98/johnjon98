@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://github.com/johnjon98/johnjon98/issues) related to <b>Backend Web Development, Django, REST Framework, Python, R, SQL, Javascript, Html, Data Science, and Machine Learning.</b>
-- 📫 How to reach me: [@johnjon98][linkedin] or say 👋 on Email at [Jonathan](mailto:john1998@live.com.my)
+- 📫 How to reach me: [@johnjon98][linkedin] or say 👋 on Email at [john1998@live.com.my](mailto:john1998@live.com.my)
 - ⚡ Fun fact: I ❤️ Food, Adventures and Puzzles
 
 
@@ -37,4 +37,6 @@ This is the place where I opensource stuff and break things 🤣
 ### 📊 GitHub Stats:
 ![johnjon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnjon98&count_private=true&show_icons=true&show_icons=tru&theme=radical)
 
-
+<!-- links -->
+[linkedin]: https://linkedin.com/in/johnjon98
+<!-- end links -->
