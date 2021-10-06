@@ -4,6 +4,7 @@
     `"-\._./-"'
         ^ ^                   
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=johnjon98.johnjon98&left_color=green&right_color=red)
 
 This is the place where I opensource stuff and break things 🤣
 
